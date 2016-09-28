@@ -71,9 +71,7 @@ dashboard.controller('sidebar', function($scope) {
         var textArea = "Some text";
         $scope.textArea = textArea;
     });
-
 //End of notice board configurations
-
 
 //page Routing
 dashboard.config(function($routeProvider) {
